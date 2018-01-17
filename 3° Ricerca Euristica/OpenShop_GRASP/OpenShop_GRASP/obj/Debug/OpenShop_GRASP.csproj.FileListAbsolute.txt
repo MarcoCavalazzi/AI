@@ -1,0 +1,30 @@
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe.config
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csprojResolveAssemblyReference.cache
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Form1.resources
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Properties.Resources.resources
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csproj.GenerateResource.Cache
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.pdb
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.exe
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.pdb
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe.config
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.exe
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe.config
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.exe
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csprojResolveAssemblyReference.cache
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Form1.resources
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Properties.Resources.resources
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csproj.GenerateResource.Cache
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe.config
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.exe
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.pdb
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.exe
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\bin\Debug\OpenShop_GRASP.pdb
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csprojResolveAssemblyReference.cache
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Form1.resources
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.Properties.Resources.resources
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GRASP\OpenShop_GRASP\obj\Debug\OpenShop_GRASP.csproj.GenerateResource.Cache
