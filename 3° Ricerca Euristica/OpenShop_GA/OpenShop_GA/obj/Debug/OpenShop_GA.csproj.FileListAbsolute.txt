@@ -1,0 +1,30 @@
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe.config
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.pdb
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csprojResolveAssemblyReference.cache
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Form1.resources
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Properties.Resources.resources
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csproj.GenerateResource.Cache
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.exe
+c:\users\elia\documents\visual studio 2013\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.pdb
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe.config
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.exe
+C:\Users\Elia\Desktop\Progetti IA\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe.config
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.exe
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.pdb
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csprojResolveAssemblyReference.cache
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Form1.resources
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Properties.Resources.resources
+C:\Users\mattia\Desktop\Ricerca Euristica_open shop\src\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csproj.GenerateResource.Cache
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe.config
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.exe
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.pdb
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.exe
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\bin\Debug\OpenShop_GA.pdb
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csprojResolveAssemblyReference.cache
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Form1.resources
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.Properties.Resources.resources
+C:\Users\Mattia\Documents\Visual Studio 2012\Projects\OpenShop_GA\OpenShop_GA\obj\Debug\OpenShop_GA.csproj.GenerateResource.Cache
